@@ -6,28 +6,6 @@ It explores goal-scoring patterns, positional contributions, and performance imp
 
 The analysis was conducted in Google Colab and organized with a structured folder system for data, figures, and scripts.
 
-📂 Repository Structure
-Premier-League-Analysis/
-│
-├── Premier_League.ipynb               # Main Jupyter Notebook with code and visualizations
-│
-├── premier-league-analysis/
-│   ├── data/                          # Datasets used in analysis
-│   │   ├── premier-player-23-24.csv
-│   │   └── epl_player_stats_24_25.csv
-│   │
-│   └── figs/                          # All generated visualizations
-│       ├── correlation_heatmap_2023_24.png
-│       ├── goals_per90_by_position_2023_24.png
-│       ├── goals_per90_by_position_2425.png
-│       ├── position_goal_share_comparison.png
-│       ├── top10_goals_2023_24.png
-│       ├── top10_goals_2425.png
-│       ├── top10_assists_2023_24.png
-│       └── top10_assists_2425.png
-│
-└── notebooks/                         # (Optional future scripts)
-
 Technologies Used
 - Language: Python
 - Environment: Google Colab
